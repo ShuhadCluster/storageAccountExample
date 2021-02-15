@@ -5,7 +5,7 @@
         
         "givenName": {
         "type": "string",
-        "defaultValue" : "veryfirst343",
+        "defaultValue" : "linkedtemplateexample343",
         "metadata": {
             "description": "Gives the name"
         }
